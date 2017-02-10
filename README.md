@@ -1,4 +1,4 @@
-# LiXizhi's Personal Website
+# quakren's Personal Website
 
-Runing on Github + Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+Runing on Github + Jekyll theme by [LiXizhi](https://github.com/LiXizhi/lixizhi.github.io)**
 
