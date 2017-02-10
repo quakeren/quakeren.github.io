@@ -18,11 +18,11 @@ viewsourceroot: https://github.com/quakeren/quakeren.github.io/blob/master/
 newsourceroot: https://github.com/quakeren/quakeren.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: lixizhi
-#duoshuo_url: "http://lixizhi.github.io"
-# disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: quakeren
-disqus_url: "http://quakeren.github.io"
+duoshuo_shortname: quakeren
+duoshuo_url: "http://quakeren.github.io"
+#disqus.com commenting system. please note that it is exclusive with duoshuo.com
+#disqus_shortname: quakeren
+#disqus_url: "http://quakeren.github.io"
 #########################################
 
 # Build settings
